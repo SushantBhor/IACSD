@@ -1,3 +1,4 @@
+#Program to find greatest no out of 3 nos
 #!/bin/bash
 echo "Enter three numbers to find greast: "
 read a b c
