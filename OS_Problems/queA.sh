@@ -1,3 +1,6 @@
+#Basic Calculator Program
+
+
 #!/bin/bash
 read -p  "Enter a two number: " a b
 echo "1.addition"
